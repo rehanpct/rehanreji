@@ -110,6 +110,7 @@ ul li a:hover{
     margin-right: -60px;
     font-size: 30px;
     transition: .4s ease;
+    gap: 1px;
     
 }
 
